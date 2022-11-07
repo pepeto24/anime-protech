@@ -1,0 +1,17 @@
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Infra.deps.json
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Infra.runtimeconfig.json
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Infra.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\ref\AnimesProtech.Infra.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Infra.pdb
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Core.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\bin\Debug\net6.0\AnimesProtech.Core.pdb
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.csproj.AssemblyReference.cache
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.AssemblyInfoInputs.cache
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.AssemblyInfo.cs
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.csproj.CoreCompileInputs.cache
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.csproj.CopyComplete
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\ref\AnimesProtech.Infra.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.pdb
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Infra\obj\Debug\net6.0\AnimesProtech.Infra.genruntimeconfig.cache

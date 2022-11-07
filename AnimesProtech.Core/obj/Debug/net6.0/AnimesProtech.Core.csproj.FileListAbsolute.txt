@@ -1,0 +1,12 @@
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\bin\Debug\net6.0\AnimesProtech.Core.deps.json
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\bin\Debug\net6.0\AnimesProtech.Core.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\bin\Debug\net6.0\ref\AnimesProtech.Core.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\bin\Debug\net6.0\AnimesProtech.Core.pdb
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.AssemblyInfoInputs.cache
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.AssemblyInfo.cs
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.csproj.CoreCompileInputs.cache
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\ref\AnimesProtech.Core.dll
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.pdb
+C:\Users\elucasa\Documents\AnimesProtech\AnimesProtech.Core\obj\Debug\net6.0\AnimesProtech.Core.csproj.AssemblyReference.cache
