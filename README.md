@@ -1,2 +1,2 @@
 # anime-protech
-Desafio de protech
+Desafio da protech
